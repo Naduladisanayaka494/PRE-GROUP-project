@@ -1,12 +1,10 @@
 # Project Name :- Online restaurants management system
 # (Pre group project)
+this a pre group project done by me
 
-# Functional Requirements:- 
+# Functional Requirement:- 
 
-1. Payment function (Kalpana)
-2. Table assigning function (Nadula) 
-3. Delivery function ( Kavindu)
-4. Order function (Lakshan)
+Customer order function
 
 ## Technologies:- 
 MERN STACK
