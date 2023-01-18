@@ -1,4 +1,4 @@
-# Project Name :- Online Restaurants management system
+# Project Name :- Online restaurants management system
 # (Pre group project)
 
 # Functional Requirements:- 
